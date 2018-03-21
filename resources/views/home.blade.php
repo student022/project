@@ -1,15 +1,4 @@
-@extends('adminlte::page')
 
-@section('title', 'AdminLTE')
-
-@section('content_header')
-    <h1>Role</h1>
-@stop
-
-
-<script src="//code.jquery.com/jquery.js"></script>
-
-@section('content')
     
         
 
