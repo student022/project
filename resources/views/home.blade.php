@@ -70,34 +70,4 @@
         </div>
 
 
- <table class="table table-bordered" id="role_table">
-        <thead>
-            <tr>
-                <th>Id</th>
-                <th>Role Name</th>
-                <th>Updated At</th>
-                <th>Actions</th>
-            </tr>
-        </thead>
-    </table>
-
-
-
-<script>
-$(function() {
-
-    $('#role_table').DataTable({
-        processing: true,
-        serverSide: true,
-        ajax: '{!! url('rolepostdata') !!}',
-        columns: [
-            { data: 'id', name: 'id' },
-            { data: 'role_name', name: 'role_name' },
-            { data: 'updated_at', name: 'updated_at' },
-            { data: 'action', name: 'action' }
-        ]
-    });
-});
-
-</script>
-
+ 
