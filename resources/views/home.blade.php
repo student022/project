@@ -47,7 +47,7 @@
                                 <!-- Name input-->
                               
                                 <div class="form-group">
-                                    <label class="col-md-3 control-label" for="name">Role Name</label>
+                                    <label class="col-md-3 control-label" for="name">Role </label>
                                     <div class="col-md-9">
                                         <input id="rolename" name="rolename" type="text" placeholder="Enter the role name" class="form-control"></div>
                                 </div>
