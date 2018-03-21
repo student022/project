@@ -39,11 +39,7 @@
                                 </div>
                                
                                 <!-- Form actions -->
-                                <div class="form-position">
-                                    <div class="col-md-12 text-right">
-                                        <button type="submit" class="btn btn-responsive btn-primary btn-sm">Submit</button>
-                                    </div>
-                                </div>
+                                
                         </form>
                     </div>
                 </div>
