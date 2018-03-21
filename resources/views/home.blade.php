@@ -1,15 +1,4 @@
-@extends('adminlte::page')
 
-@section('title', 'AdminLTE')
-
-@section('content_header')
-    <h1>Role</h1>
-@stop
-
-
-<script src="//code.jquery.com/jquery.js"></script>
-
-@section('content')
     
         
 
@@ -39,11 +28,7 @@
                                 </div>
                                
                                 <!-- Form actions -->
-                                <div class="form-position">
-                                    <div class="col-md-12 text-right">
-                                        <button type="submit" class="btn btn-responsive btn-primary btn-sm">Submit</button>
-                                    </div>
-                                </div>
+                                
                         </form>
                     </div>
                 </div>
